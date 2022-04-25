@@ -69,7 +69,7 @@ void setup(void) {
   
   
   Serial.begin(9600);
-  t1 = rtc.getTime();
+  //t1 = rtc.getTime();
   pinMode(bee,OUTPUT);
     
 }
